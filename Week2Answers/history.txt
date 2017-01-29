@@ -1,0 +1,454 @@
+history becuase terminal did not have all entries back to the start  
+
+    1  exit
+    2  data/atms305/a/cigelni2
+    3  data/atms305/a/Cigelni2
+    4  /data/atms305/a/Cigelni2
+    5  /data/atms305/a/cigelni2
+    6  quit
+    7  exit
+    8  chsh
+    9  shell
+   10  checkshell
+   11  whatshell
+   12  pls
+   13  help
+   14  info bash
+   15  qlogin
+   16  exit
+   17  /bin/bash
+   18  qlogin
+   19  chsh
+   20  git clone https://github.com/BenCig/ATMS-305.git
+   21  ls
+   22  quit
+   23  q
+   24  logout
+   25  qlogin
+   26  cd
+   27  cd ..
+   28  cd /data/atms305/a/cigelni2/ATMS305/Week2answers
+   29  cd /data/atms305/a/cigelni2/ATMS305
+   30  cd /data/atms305/a/cigelni2
+   31  mkdir /data/atms305/a/cigelni2/ATMS-305/Week2answers
+   32  ls
+   33  mkdir ATMS-305
+   34  ls
+   35  mkdir ATMS-305
+   36  mkdir Week2answers
+   37  ls
+   38  cd Week2answers/
+   39  ls
+   40  pico signature.txt
+   41  cd .
+   42  cd ..
+   43  ls
+   44  cd ..
+   45  ls
+   46  cd atms305
+   47  ls
+   48  cd a
+   49  ls
+   50  cd cigelni2
+   51  ls
+   52  cd ATMS-305
+   53  ls
+   54  mkdir Week2answers
+   55  ls
+   56  cd Week2answers
+   57  ls
+   58  pico signature.txt
+   59  ls
+   60  cd ..
+   61  ls
+   62  cd /data/atms305/a/cigelni2/ATMS-305/Week2answers
+   63  ls
+   64  cd ,,
+   65  cd ..
+   66  ls
+   67  cd ..
+   68  ls
+   69  git remote add upstream https://github.com/swnesbitt/ATMS-305.git
+   70  git clone git@github.com:BenCig/ATMS-305.git
+   71  cd 
+   72  ls
+   73  cd /data/atms305/a/cigelni2/ATMS-305/Week2answers
+   74  ls
+   75  logout
+   76  end
+   77  exit
+   78  git remote add upstream https://github.com/swnestbitt/ATMS-305.git
+   79  git clone git@github.com:BenCig/ATMS-305.git
+   80  get remote add upstream https://github.com/swnestbitt/ATMS-305.git
+   81  git remote add upstream https://github.com/swnestbitt/ATMS-305.git
+   82  get fetch upsterams
+   83  git fetch upstream
+   84  ls
+   85  mkdir /data/atmos305/a/cigelni2/ATMS-305/Week2answers
+   86  mkdir /data/atmos305/cigelni2/ATMS-305/Week2answers
+   87  cd ..
+   88  cd
+   89  cd .. 
+   90  cd ..
+   91   cd.. 
+   92  cd ..
+   93  mkdir /data/atmos305/a/cigelni2/ATMS-305/Week2answers
+   94  ls
+   95  cd
+   96  mkdir ATMOS305
+   97  ls
+   98  cd ATMOS-305
+   99  rmdir atmos305
+  100  rmdir ATMOS305
+  101  ls ATMS-305
+  102  mkdir ATMOS-305
+  103  ls
+  104  cd ATMOS-305
+  105  mkdir Week2answers
+  106  ls
+  107  cd Week2answers
+  108  pico signature.txt
+  109  rmdir ATMOS-305
+  110  cd ..
+  111  ;s
+  112  ls
+  113  rmdir ATMOS-305
+  114  cd ATMS-305
+  115  mkdir Week2answers
+  116  ls
+  117  pico Week 2 - Tuesday
+  118  cd Week2answers
+  119  ls
+  120  pico signature.txt
+  121  ls
+  122  cd ..
+  123  ls
+  124  cd 
+  125  cd ..
+  126  cd ,,
+  127  cd ..
+  128  cd
+  129  ls
+  130  ATMOS-305
+  131  cd a
+  132  ls
+  133  /bin/bash
+  134  exit
+  135  csch
+  136  chch
+  137  chsh
+  138  /bin/bash
+  139  pwd
+  140  ls
+  141  /cd ATMS-305
+  142  cd ATMS-305
+  143  ls
+  144  cd Week2answers
+  145  ls
+  146  cat signature.txt
+  147  cd
+  148  pwd
+  149  ls
+  150  rm rf ATMOS-305
+  151  rm -rf ATMOS-305
+  152  ls
+  153  qlogin
+  154  chsh
+  155  cd
+  156  ls
+  157  cd ATMS-305
+  158  LS
+  159  ls
+  160  cd ..
+  161  rmdir ATMS-305
+  162  ls
+  163  cat test.txt'
+  164  cat test.txt
+  165  q
+  166  end
+  167  quit
+  168  stop
+  169  cat test.txt'
+  170  cat test.txt
+  171  q
+  172  end
+  173  quit
+  174  stop
+  175  cat text.txt
+  176  ls
+  177  pico test.txt
+  178  cd text.txt
+  179  rm test.txt
+  180  cd
+  181  git clone https://github.com/BenCig/ATMS-305.git
+  182  git remote add upstream https://github.com/swnesbitt/ATMS-305.git
+  183  ls
+  184  cd ATMS-305
+  185  ls
+  186  git fetch upstream
+  187  git checkout master
+  188  git merge upstream/master
+  189  git fetch upstream
+  190  pico /data/atms/a/cigelni2/ATMS-305/.git/config
+  191  ls
+  192  pwd
+  193  git fetch upstream
+  194  git remote add upstream https://github.com/swnesbitt/ATMS-305.git
+  195  git fetch upstream
+  196  git checkout master
+  197  git merge upstream/master
+  198  ls
+  199  cd .git
+  200  ls
+  201  cd config
+  202  pico config
+  203  git add -A
+  204  cd ..
+  205  git add -A
+  206  git commit -m "Update please work"
+  207  git push origin master
+  208  git export SSH_ASKPASS="" push origin master
+  209  git fast- export SSH_ASKPASS="" push origin master
+  210  git fast-export SSH_ASKPASS="" push origin master
+  211  git remote -v
+  212  git checkout master
+  213  git merge upstream/master
+  214  touch textfle.txt
+  215  git merge upstream/master
+  216  git add A
+  217  git add -A
+  218  git commit -m "test update"
+  219  git push origin master
+  220  git export SSH_ASKPass="" push origin master
+  221  git --help
+  222  git SSH_ASKPass="" push origin master
+  223  git pull origin master
+  224  ls
+  225  git add -A
+  226  git commit -m "Update due to errors from snesbitt :D"
+  227  git push origin master
+  228  ls
+  229  git export SSH_ASKPASS="" push origin master
+  230  --help
+  231  git --help
+  232  git fast-export SSH_ASKPASS="" push origin master
+  233  git fast-export SSH_ASKPASS="TRUE" push origin master
+  234  pico /data/atms305/a/cigleni2/ATMS-305/.git/config
+  235  cd
+  236  owd
+  237  pwd
+  238  pico /data/atms305/cigelni2/ATMS-305/.git/conifg
+  239  pico /data/atms305/cigelni2/ATMS-305/.git/config
+  240  cd
+  241  ls
+  242  cd ATMS-305
+  243  ls
+  244  cd .git
+  245  ls
+  246  pico config
+  247  git add -A
+  248  cd ATMS-305
+  249  cd ..
+  250  git add -A
+  251  git commit -m "update"
+  252  git push origin master
+  253  git pull origin master
+  254  unset SSH_ASKPAS
+  255  git push origin master
+  256  git pull origin master
+  257  git push origin master
+  258  ls
+  259  cd .git
+  260  pico config
+  261  git pull origin mater
+  262  git pull origin master
+  263  cd ..
+  264  git pull origin master
+  265  git export SSH_ASKPASS="" pull origin master
+  266  git fast-export SSH_ASKPASS="" pull origin master
+  267  pico .git/conifg
+  268  cd .git
+  269  pico config
+  270  cd ,,
+  271  cd ..
+  272  ls
+  273  git add -A
+  274  git commit -m "update"
+  275  git push origin master
+  276  git pull origin master
+  277  export SSH_ASKPASS="" git push origin master
+  278  export SSH_ASKPASS="" git pull origin master
+  279  git push origin master
+  280  git remote -v
+  281  git remote https://BenCig@github.com:BenCig/ATMS-305.git
+  282  git remote set-url origin  
+https://BenCig@github.com:BenCig/ATMS-305.git
+  283  git remote -v
+  284  git add -A
+  285  git commit -m "update"
+  286  git push origin master
+  287  git remote set-url origin  
+https://BenCig@github.com/BenCig/ATMS-305.git
+  288  git add -A
+  289  git commit -m "update
+  290  git commit -m "update"
+  291  git push origin master
+  292  git pull origin master
+  293  git push origin master
+  294  cd .git/config
+  295  ls
+  296  cd .git
+  297  pico config
+  298  git clone https://github.com/BenCig/ATMS-305.git
+  299  ls
+  300  cd ATMS-305
+  301  ls
+  302  cd .
+  303  cd ..
+  304  rm -rf ATMS-305
+  305  ls
+  306  cd ..
+  307  git clone https://github.com/BenCig/ATMS-305.git
+  308  rm -rf ATMS-305
+  309  ls
+  310  git remote -v
+  311  git clone https://github.com/BenCig/ATMS-305.git
+  312  ls
+  313  git remote rm update https://github.com/swnesbitt/ATMS-305.git
+  314  git remote -v
+  315  git remote rm https://github.com/swnesbitt/ATMS-305.git
+  316  git remote rm upstream https://github.com/swnesbitt/ATMS-305.git
+  317  pico .git/config
+  318  ls
+  319  cd ATMS-305
+  320  ls
+  321  git remote add upstream https://github.com/swnesbitt/ATMS-305.git
+  322  git remote -v
+  323  git fetch upstream
+  324  git checkout master
+  325  git merge upstream/master
+  326  pico /data/atms305/a/cigelni2/ATMS-305/.git/config
+  327  ls
+  328  cd .git
+  329  ls
+  330  pico config
+  331  cd ..
+  332  git add -A
+  333  git commit -m "test'
+  334  git commit -m "test"
+  335  git push origin master
+  336  git pull  origin master
+  337  git push origin master
+  338  pico .git/config
+  339  git push origin master
+  340  pico .git/config
+  341  git push origin master
+  342  pico .git/config
+  343  git push origin master
+  344  pico .git/config
+  345  git push origin master
+  346  git add -A
+  347  git commit -m "Update"
+  348  git push origin master
+  349  pico .git/config
+  350  git add -A
+  351  git commit -m "update"
+  352  git push origin master
+  353  ls
+  354  cd ..
+  355  ls
+  356  mkdir Week2stuff
+  357  ls
+  358  rmdir Week2stuff
+  359  mkdir Week2Answesr
+  360  rmdir Week2Answesr
+  361  ls
+  362  mkdir Week2Answers
+  363  ls
+  364  cd Week2Answers
+  365  logout
+  366  cigelni2
+  367  logout
+  368  qlogin
+  369  qlogin
+  370  chsh
+  371  ssh -vT git@github.com
+  372  git remote -v
+  373  ls
+  374  cd ATMS-305
+  375  ls
+  376  git remote -v
+  377  cd Week2answers
+  378  ls
+  379  Week2Answers.save
+  380  pico Week2Answers.save
+  381  rm Week2Answers.save
+  382  cd Week2Answers.save
+  383  ls
+  384  cd ..
+  385  git add =A
+  386  git add -A
+  387  git commit -m "update
+  388  git commit -m "update"
+  389  git push origin master
+  390  export SSH_ASKPASS=""
+  391  git push origin master
+  392  logout
+  393  chsh
+  394  ssh -vT git@github.com
+  395  ssh -tv -help
+  396  cd
+  397  qlogin
+  398  logout
+  399  ls
+  400  cd ATMS-305
+  401  ls
+  402  cd Week2answers
+  403  ls
+  404  pico signature.txt
+  405  cd ..
+  406  pwd
+  407  cd blah
+  408  cd ..
+  409  pwd
+  410  cd ATMS-305
+  411  pwd
+  412  ls
+  413  ls -l
+  414  cd
+  415  pwd
+  416  cd ..
+  417  cd ,,
+  418  cd ..
+  419  pwd
+  420  cd root
+  421  ls
+  422  cd bin
+  423  cd home
+  424  cd boot
+  425  cd ..
+  426  cd hoe
+  427  cd home
+  428  cd ..
+  429  cd data
+  430  cd ..
+  431  cd proc
+  432  ls -l
+  433  cd ..
+  434  ls -l
+  435  cd etc
+  436  ls
+  437  cat inittab
+  438  cd
+  439  file .
+  440  cat .
+  441  cat --help
+  442  cat -n /etc/passwd
+  443  man intro
+  444  man ls
+  445  info passwd
+  446  apropos pwd
+  447  man cd
+  448  ls --help
+  449  history
+

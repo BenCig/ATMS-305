@@ -1,0 +1,12 @@
+1.2 - access denied
+2.1 - goes up a directory
+2.2 - files, text files from the github repository
+2.3 - goes to home directory
+2.4  - says "/"
+2.6 - says no such file or directory, all shown
+2.7 - "cd /"
+3.2 - full multiuser mode
+3.4 - no, it is a directory
+4.5 - google
+
+
