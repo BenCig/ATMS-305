@@ -1,0 +1,5 @@
+#!/bin/bash
+
+currentdate=$( date )
+cp hw2.2script.sh $currentdate_cigelni2.txt
+echo currentdate
