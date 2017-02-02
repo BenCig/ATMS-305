@@ -1,0 +1,11 @@
+---------------------------------------------------------------------
+OUTPUT FROM PROBLEM 1
+cigelni2@keeling-f01 Week3Answers: $ ./hw2.1script.sh I sure hope this script works
+I sure hope this script works
+6
+---------------------------------------------------------------------
+OUTPUT FROM PROBLEM 2
+cigelni2@keeling-f01 Week3Answers: $ ./hw2.2script.sh
+cigelni2@keeling-f01 Week3Answers: $ ls
+ _cigelni2.sh                    \_cigelni2.sh   hw2.2script.sh
+2017-02-2_03:57:27_cigelni2.txt  hw2.1script.sh  myscript.sh
