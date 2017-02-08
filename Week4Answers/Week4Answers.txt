@@ -1,0 +1,46 @@
+-----------------------------------------------------
+OUTPUT FROM PROBLEM 1
+cars = 100
+drivers = 30
+passengers = 85
+
+leftcars = cars - drivers
+usedcars = drivers
+totaltransport = drivers + passengers
+averagepass = totaltransport / usedcars
+
+print(leftcars, 'cars will not be used on this day.')
+print(usedcars, 'cars will be used on this day.')
+print(totaltransport, 'total people will be transported on this day.')
+print('The average passenger per car is ', averagepass)
+
+cigelni2@keeling-f01 Week4Answers: $ python hw2.1script.py
+70 cars will not be used this day.
+30 cars will be used this day.
+115 total people will be transported on this day.
+The average passenger per car is  3.8333333333333335
+
+-----------------------------------------------------
+OUTPUT FROM PROBLEM 2
+
+import math
+
+temp  = float(input("Enter a temp in C: "))
+
+numer = 17.625 * temp
+denom = temp + 243.04
+exponent = numer / denom
+
+svp = 6.1094 *  math.exp(exponent)
+
+print('The saturated vapor pressure is for', temp,'C is ',svp)
+
+cigelni2@keeling-f01 Week4Answers: $ python hw3.2script.py
+Enter a temp in C: 10
+The saturated vapor pressure is for 10.0 C is  12.260206350234858
+
+
+
+
+-----------------------------------------------------
+
