@@ -33,14 +33,11 @@ exponent = numer / denom
 
 svp = 6.1094 *  math.exp(exponent)
 
-print('The saturated vapor pressure is for', temp,'C is ',svp)
+print('The saturated vapor pressure is for', temp,'C is',svp,'mb')
 
 cigelni2@keeling-f01 Week4Answers: $ python hw3.2script.py
 Enter a temp in C: 10
-The saturated vapor pressure is for 10.0 C is  12.260206350234858
-
-
-
+The saturated vapor pressure is for 10.0 C is 12.260206350234858 mb.
 
 -----------------------------------------------------
 
