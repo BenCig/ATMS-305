@@ -8,5 +8,8 @@ exponent = numer / denom
 
 svp = 6.1094 *  math.exp(exponent)
 
-print('The saturated vapor pressure is for', temp,'C is',svp,'mb.')
-
+print("The saturated vapor pressure for")
+print(temp)
+print("is")
+print(svp)
+print("mb.")
