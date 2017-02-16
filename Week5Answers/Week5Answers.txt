@@ -1,8 +1,102 @@
 -------------------------------------------------
 OUTPUT FROM PROBLEM 1
 
+filename='aravg.ann.land_ocean.90S.90N.v4.0.1.201612.asc'
+wxdata={'year':[],'temperature':[]}
+with open(filename, "r") as f:
+    alist = f.read().splitlines()
+for line in alist: #iterate through lines
+    wxdata['year'].append(int(line.split()[0]))
+    wxdata['temperature'].append(float(line.split()[1]))
+
+print('Ranking      '+'Year     '+'Temperature Anomaly (degrees C)     '\
++'Temperature Anomaly (degrees F)')
+
+highesttemps = [i for i in wxdata['temperature'] if i >= .3]
+highesttemps.sort(reverse = True)
+
+# convert temp anomaly into F
+
+for i in range (0,10):
+    rank = i + 1
+    tempF = highesttemps[i] * 1.8 + 32
+    print('{0:<12d} {1:<8d} {2:<35f} {3:<10f} '.format(rank,\
+    wxdata['year'][wxdata['temperature'].index(highesttemps[i])]\
+    ,highesttemps[i], tempF)
+
+cigelni2@keeling Week5Answers: $ python hw4.1script.py 
+Ranking      Year     Temperature Anomaly (degrees C)     Temperature Anomaly (degrees F)
+1            2016     0.690951                            33.243712  
+2            2015     0.654480                            33.178064  
+3            2014     0.495471                            32.891848  
+4            2010     0.456035                            32.820863  
+5            2013     0.422519                            32.760534  
+6            2005     0.413196                            32.743753  
+7            2009     0.391374                            32.704473  
+8            1998     0.389096                            32.700373  
+9            2012     0.378706                            32.681671  
+10           2003     0.368062                            32.662512  
+
+
 -------------------------------------------------
 OUTPUT FROM PROBLEM 2
+
+filename='CMI.csv'
+day = []
+obs = []
+temp = []
+with open (filename, "r") as f:
+    first_line = f.readline()
+    alist = f.read().splitlines()
+for line in alist:
+    obs.append(line.split(',')[10])
+    day.append(line.split(',')[1])
+    temp.append(line.split(',')[2])
+
+day.remove('2016-12-20 11:53')
+day.remove('2016-05-01 00:00')
+temp.remove('M')
+temp.remove('M')
+
+floattemp = [float(i) for i in temp]
+tempsum = sum(floattemp)
+average = tempsum / (len(day))
+
+wxdata = dict(zip(floattemp[:],day[:]))
+
+hightemp = [i for i in wxdata if i >= 90]
+hightemp.sort(reverse = True)
+
+# count up all types of snow (done like this bc count('SN') gave incorrect
+lightsnow = int(obs.count('-SN'))
+brlsnow = int(obs.count('-SN BR'))
+bllsnow = int(obs.count('-SN BLSN'))
+frzlsnow = int(obs.count('-SN FZFG'))
+blsnow = int(obs.count('SN BLSN'))
+fgsnow = int(obs.count('SN FG'))
+fzsnow = int(obs.count('SN FZFG')) 
+brsnow = int(obs.count('SN BR'))
+heavysnow = int(obs.count('+SN FG'))
+totalsnow = lightsnow + brlsnow + bllsnow + frzlsnow + blsnow + fgsnow + fzsnow+\
+    brsnow + heavysnow
+
+totalobs = (len(obs))
+snowfrac = float(totalsnow/totalobs)
+
+print("1. There were",totalsnow,"snow reports last year.")
+print("2. The fraction of reports with snow was:", snowfrac)
+print("3. The highest temperature of", hightemp[0], "occured at"\
+    ,wxdata[hightemp[0]])
+print("4. The mean temperature of all reports was:", \
+    average, "degrees Fahrenheit.")
+
+
+cigelni2@keeling Week5Answers: $ python hw4.2script.py 
+1. There were 299 snow reports last year.
+2. The fraction of reports with snow was: 0.02725615314494075
+3. The highest temperature of 93.92 occured at 2016-06-11 14:53
+4. The mean temperature of all reports was: 54.147963165572534 degrees 
+Fahrenheit.
 
 -------------------------------------------------
 
