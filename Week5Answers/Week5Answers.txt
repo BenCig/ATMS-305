@@ -85,8 +85,8 @@ snowfrac = float(totalsnow/totalobs)
 
 print("1. There were",totalsnow,"snow reports last year.")
 print("2. The fraction of reports with snow was:", snowfrac)
-print("3. The highest temperature of", hightemp[0], "occured at"\
-    ,wxdata[hightemp[0]])
+print("3. The highest temperature of", hightemp[0]\
+    ,"occured at", wxdata[hightemp[0]])
 print("4. The mean temperature of all reports was:", \
     average, "degrees Fahrenheit.")
 
